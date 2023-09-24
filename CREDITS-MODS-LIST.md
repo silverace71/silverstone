@@ -5,7 +5,6 @@ these are the non content adding mods. I.E it doesn't add new blocks
 ### Optimization Mods
 - [DashLoader](https://modrinth.com/mod/dashloader)
 - [Language Reload](https://modrinth.com/mod/language-reload)
-- [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
 - [Exordium](https://modrinth.com/mod/exordium)
 - [Cull Leaves](https://modrinth.com/mod/cull-leaves)
 - [ModernFix](https://modrinth.com/mod/modernfix)
@@ -38,6 +37,7 @@ these are the non content adding mods. I.E it doesn't add new blocks
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 - [More Culling](https://modrinth.com/mod/moreculling)
 - [More Culling Extra](https://modrinth.com/mod/morecullingextra)
+- [Better Fps - Render Distance[Fabric]](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)
 
 
 ### QOL mods
@@ -68,7 +68,7 @@ these are the non content adding mods. I.E it doesn't add new blocks
 - [LiLaC](https://modrinth.com/mod/lilac)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [libIPN](https://modrinth.com/mod/libipn)
-
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 
 
 
